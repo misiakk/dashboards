@@ -3,11 +3,12 @@
 ## Dashboard list
 * [MarvelToys](#marveltoys)
 * [PizzaSales](#pizzasales)
+* [PróbnePowerBI](#próbnepowerbi)
+* [SalesReport](#salesreport)
 * [Skiing map](#skiing-map)
 
 
 ## MarvelToys
-> Sreenshot showing MarvelToys dashboard. It includes the most crucial indicators and data about sale.
 ![Sreenshot showing MarvelToys dashboard. It includes the most crucial indicators and data about sale.](https://github.com/misiakk/dashboards/blob/master/Screenshots/MarvelToys.png)
 
 ## PizzaSales
